@@ -225,7 +225,7 @@ manifest:
     - name: openthread
       repo-path: sdk-openthread
       path: modules/lib/openthread
-      revision: b9dcdbca4edd348e924d7579a2bada48bf085645
+      revision: debug/tomaszkob89/key-rotation 
       userdata:
         ncs:
           upstream-url: https://github.com/openthread/openthread
